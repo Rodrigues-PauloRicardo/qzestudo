@@ -37,12 +37,12 @@
         {
             pergunta: " A respeito de “atmosfera protetora” usada para prevenir ou reduzir a formação de óxidos e outros defeitos superficiais numa solda, indique a opção correta:",
             respostas: ["É sempre gasosa. ", ") Somente utiliza-se gás inerte na sua formação. ", " É proveniente da queima de escória. ", "Pode ser o vácuo.   ", "Somente utiliza-se gás ativo na sua formação. "],
-            correta: 4
+            correta: 3
         },
         {
             pergunta: " Indique a opção correta relativa ao termo “raiz da solda ",
             respostas: ["Porção da junta a soldar onde os membros estão alinhados e, a uma distância não superior a 2,5 mm. ", "Pontos nos quais a parte superior da solda intersecta as faces do chanfro. ", " Porção da junta soldada onde os membros estão o mais próximo possível entre si. Em seção transversal, a raiz pode ser um ponto, uma linha ou uma área", "Pontos, nos quais a parte posterior da solda intersecta as superfícies do metal de base. ", " Pontos nos quais a solda apresenta uma característica plana em relação à sua face."],
-            correta: 5
+            correta: 2
         },
         {
             pergunta: "10. Qual o percentual de diluição em uma solda autógena e na brasagem?	 ",
@@ -52,12 +52,12 @@
         {
             pergunta: "Dentre as definições a seguir, indique as que se aplicam respectivamente a solda de aresta e solda em ângulo: I. Solda executada numa junta de aresta. II. Solda realizada segundo o ângulo de trabalho. III. Solda de seção transversal aproximadamente triangular que une duas superfícies em ângulo. IV. Solda executada em uma junta de topo. ",
             respostas: [") I e IV. ", "II e IV. ", " III e II.", "I e III ", " III e IV."],
-            correta: 2
+            correta: 4
         },
         {
             pergunta: "2. Indique a definição incorreta:	 ",
             respostas: ["Embicamento é um tipo de deformação angular da junta soldada de topo. ", "Concavidade excessiva é uma descontinuidade que aparece nas soldas em ângulo cujas faces estão excessivamente côncavas ", "Mordedura é uma depressão sob a forma de entalhe, no metal de base, acompanhando a margem da solda. ", "Concavidade é uma descontinuidade que pode ocorrer tanto na face quanto na raiz da solda. ", "Reforço excessivo é o excesso de metal da zona fundida localizado na face da solda. "],
-            correta: 2
+            correta: 3
         },
         {
             pergunta: "A progressão unitária da soldagem ao longo de uma junta se refere à definição de... ",
@@ -77,12 +77,12 @@
         {
             pergunta: "Leia a frase: “Polaridade direta: é o tipo de ligação para soldagem com corrente alternada na qual a peça é considerada como pólo negativo e o eletrodo como pólo positivo”. A sentença acima está ",
             respostas: ["Correta quanto à polaridade. ", "Totalmente incorreta. ", "Correta quanto à corrente. ", "Nenhuma das anteriores. ", "Totalmente correta. "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "A demonstração da habilidade de um soldador em executar soldas que atendam padrões pré-estabelecidos é denominada: ",
             respostas: ["Exame de soldador. ", "Qualificação de procedimento. ", "Acompanhamento de soldador. ", "Teste de soldador. ", "Qualificação de soldador "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "Região da junta soldada que sofre fusão durante a soldagem”. Esta definição refere-se ao termo...	 ",
@@ -118,7 +118,7 @@
         {
             pergunta: "Podemos dizer que a “diluição” é a participação (percentagem) do metal...............na junta soldada. Complete com a opção correta: ",
             respostas: ["Não-metálico ", "Depositado. ", "Metálico. ", "De base ou de solda anterior. ", "De adição. "],
-            correta: 5
+            correta: 3
         },        
         {
             pergunta: "Das alternativas apresentadas abaixo, assinale a resposta correta:",
@@ -128,29 +128,29 @@
         {
             pergunta: "A seta quebrada ou em zig-zag significa que a mesma aponta para um membro específico da junta que deve ser chanfrado ",
             respostas: ["CERTO ", "ERRADO "],
-            correta: 5
+            correta: 0
         },
 
         {
             pergunta: "<div>Dada a solda a seguir, selecione a opção correspondente ao seu símbolo:</div><img src='img/image.png' alt='Imagem da questão' />",
             respostas: ["1 ", "3 ", "2 ", "5 ", "4 "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "<div>Para a solda a seguir representada numa vista superior (medidas em cm), selecione a opção correta quanto ao símbolo e sua respectiva descrição:</div> <img src='img/image2.jpg' alt='Imagem da questão' /> ",
             
             respostas: [" 2", "3 ", "1 ", "xx ", "xx "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "<div>Dado o símbolo a seguir, selecione a opção correspondente à solda a que ele se refere:</div> <img src='img/image3.jpg' alt='Imagem da questão' /> ",
             respostas: ["4 ", "2 ", "3 ", "1 ", "xx "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "<div>Dado o símbolo abaixo, selecione entre as opções a seguir a solda a que ele se refere.</div> <img src='img/image4.jpg' alt='Imagem da questão' /> ",
             respostas: ["3 ", "5 ", "4 ", "1 ", "2 "],
-            correta: 5
+            correta: 2
         },
         {
             pergunta: "<div>Dado o símbolo abaixo, selecione entre as opções a seguir a que corresponde a sua descrição.</div> <img src='img/image5.jpg' alt='Imagem da questão' /> ",
@@ -168,12 +168,12 @@
         {
             pergunta: "<div>Dada a solda a seguir, selecione a opção correspondente ao seu símbolo</div> <img src='img/image6.jpg' alt='Imagem da questão' /> ",
             respostas: ["2 ", "3 ", "1 ", "5 ", "4 "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "<div>Selecione entre as opções a seguir o símbolo correspondente à solda apresentada.Seção transversal da solda</div> <img src='img/image7.jpg' alt='Imagem da questão' /> ",
             respostas: ["1", "3 ", "2 ", "4 ", "5 "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "<div>Determine o símbolo correspondente à solda abaixo: Seção transversal da solda</div> <img src='img/image8.jpg' alt='Imagem da questão' /> ",
@@ -183,17 +183,17 @@
         {
             pergunta: "<div>Determine entre as opções a seguir o símbolo correto correspondente à solda apresentada:</div> <img src='img/image9.jpg' alt='Imagem da questão' /> ",
             respostas: ["4", "3 ", "5 ", "2 ", "1 "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "<div>Dada a solda abaixo, selecione entre as opções a seguir o símbolo que a ela se refere.</div> <img src='img/image10.jpg' alt='Imagem da questão' /> ",
             respostas: ["1", "5 ", "3 ", "2 ", "4 "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "<div>Selecione entre as opções a seguir o símbolo correspondente à solda apresentada.Seção transversal da solda.</div> <img src='img/image11.jpg' alt='Imagem da questão' /> ",
             respostas: ["2", "4 ", "5 ", "3 ", "1 "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "<div>Selecione, entre as opções, o símbolo correspondente à solda a seguir.Seção transversal da solda.</div> <img src='img/image12.jpg' alt='Imagem da questão' /> ",
@@ -208,7 +208,7 @@
         {
             pergunta: "<div>. Dada a solda abaixo, selecione entre as opções a seguir o símbolo que a ela se refere:</div> <img src='img/image14.jpg' alt='Imagem da questão' /> ",
             respostas: ["3", "1 ", "5", "4 ", "2 "],
-            correta: 5
+            correta: 2
         },
         {
             pergunta: "<div>. Dentre as causas mais frequentes associadas a descontinuidades no processo de soldagem a arco submerso, assinale a opção abaixo que é falsa.</div>",
@@ -278,7 +278,7 @@
         {
             pergunta: "Na soldagem TIG, se for diminuído o ângulo de cone do eletrodo de tungstênio (ângulo mais agudo), a largura do cordão tende a reduzir-se e a penetração aumenta",
             respostas: ["CERTO", "ERRADO"],
-            correta: 5
+            correta: 0
         },
         {
             pergunta: "Das causas abaixo, quanto à falta de penetração no processo de soldagem a arco submerso, qual é a única verdadeira?",
@@ -288,7 +288,7 @@
         {
             pergunta: "5. No processo de soldagem a arco submerso, os elementos de liga são adicionados através de:	",
             respostas: ["Escória.", "Fluxo e Arame.", "Metal de base.", "Arame", "Revestimento do eletrodo."],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Indique o processo de soldagem no qual a limpeza do chanfro e bordas deve ser ao metal brilhante:",
@@ -298,7 +298,7 @@
         {
             pergunta: "No arco submerso, em virtude do arco elétrico de soldagem estar encoberto por um fluxo, não há necessidade de se usar óculos de proteção com filtro:",
             respostas: ["CERTO", "ERRADO"],
-            correta: 5
+            correta: 0
         },
         {
             pergunta: "8. Indique a afirmativa correta a respeito do processo de soldagem a gás:",
@@ -388,12 +388,12 @@
         {
             pergunta: "Qual dos consumíveis abaixo é indicado para soldagem de aço inoxidável?	",
             respostas: [" E 7027-A1 ", " E 70T-1", "E 6010. ", "R 45 ","ER 209 "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "Assinale, entre as classificações da AWS dos consumíveis abaixo, o que pode ser indicado para a soldagem pelo processo GTAW (TIG):",
             respostas: ["E16-8-2-15. ", "R 60 ", "E 7018 ", "ER 308 ","E 70-EL8K "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "Os elementos de liga introduzidos no metal de solda pelos eletrodos de aços baixa liga para soldagem manual a arco com eletrodo revestido, especificação AWS SFA/A 5.5, são provenientes:",
@@ -423,7 +423,7 @@
         {
             pergunta: "Assinale, entre as classificações da AWS dos consumíveis abaixo, o que pode ser indicado para a soldagem de aços-carbono pelo processo oxi-gás:",
             respostas: [" E8018-B2", "E6010 ", "R318 L ", "EL8K ","R 45 "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "4. O eletrodo classificação AWS EM13K é específico para qual processo de soldagem?	",
@@ -458,7 +458,7 @@
         {
             pergunta: "Quanto ao ambiente de soldagem, marque a opção correta:",
             respostas: ["Quanto à iluminação, quando houver boxes, estes devem estar providos de iluminação individual. ", "A ventilação natural é inaceitável para qualquer operação de soldagem. ", "As operações de soldagem e corte, sempre que possível, devem realizadas em ambientes que, mesmo sem serem projetados, basta que possuam boa ventilação ", "Quanto ao Layout, materiais combustíveis e inflamáveis podem ser mantidos no ambiente, desde que haja sistema de combate a incêndio. ","No ambiente de soldagem, o piso deve ser de madeira isolante e/ou concreto antiderrapante "],
-            correta: 5
+            correta: 0
         }, {
             pergunta: "<div>A respeito da radiação devido ao arco elétrico na soldagem e também de seus efeitos, correlacione à coluna da direita com a da esquerda.</div> <img src='img/image17.jpg'alt='Imagem da questão' />",
             respostas: ["D C B A. ", "A B C D. ", " D C A B.", "D B C A. ","C D B A. "],
@@ -467,32 +467,32 @@
         {
             pergunta: "Quanto aos EPIs (Equipamento de proteção individual) que devem ser usados pelo soldador corriqueiramente durante as operações de soldagem, marque dentre as opções abaixo, a que não corresponde a este grupo.",
             respostas: [") Perneira. ", "Joelheira ", "Casacos. ", "Máscara com fixação por carneira. "," Luvas de raspa de couro."],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "A máscara de solda deve possuir lente filtrante e de cobertura. A respeito da numeração da lente filtrante assinale a opção verdadeira.",
             respostas: ["Quanto maior o numero menor a proteção oferecida ", "Quanto maior o número quanto maior a proteção oferecida. ", "xxx ", "xxx ","xxx "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Com relação a fumos e gases em soldagem, assinale a opção INCORRETA.",
             respostas: ["Causam efeitos como: tonteiras, náuseas, irritação nos olhos e pele. ", " Os gases de proteção, (por exemplo: gás argônio no processo MIG), não apresentam toxicidade e por esse motivo não causam qualquer risco para o soldador", "A rápida exposição ao cádmio, que é um metal extremamente tóxico, poderá ser letal. ", "Contém elementos químicos e partículas sólidas que se inaladas são prejudiciais à saúde. ","Exposição prolongada a fumos pode causar doenças crônicas como a siderose (acúmulo de ferro nos pulmões). "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "7. Com relação à eletricidade e seus efeitos no organismo, indique abaixo a opção correta:	",
             respostas: ["O choque da tensão secundária de uma máquina de solda é muito mais perigoso do que o da tensão primária. ", "O trabalho com segurança é aquele no qual possuímos a maior resistência possível associada a menor tensão possível. ", "Quanto menor a intensidade de corrente maior será o seu efeito no organismo. ", "A resistência oferecida por um dado elemento (por ex: luva de couro) é maior estando este molhado comparativamente a seco. ",") O trabalho com segurança é aquele no qual possuímos a menor resistência possível associada a maior tensão possível. "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Entre as opções a seguir relacionadas com o “ambiente de soldagem”, indique a falsa:",
             respostas: ["Layout – as passagens e rotas de fuga devem ser mantidas obrigatoriamente livres e desimpedias ", "Pintura – devem ser utilizadas cores vivas e refletivas a fim de clarear ao máximo o ambiente. ", "Ventilação – a transversal deve ser livre, sem bloqueios por paredes, divisórias ou outras paredes. ", "Piso – deve proporcionar um bom isolamento térmico, ser de concreto antiderrapante ou com revestimento a prova de fogo. ","Iluminação – as luzes, artificial ou natural, devem incidir sobre a área de trabalho, vindas do alto e por trás. "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Sobre cuidados particulares aos processos de soldagem – “soldagem a arco elétrico”, qual entre as opções a seguir NÃO não se aplica:",
             respostas: [") Aterramento - deve ser empregado cabo terra não sendo permitidas conexões para aterramento em correntes, arames, guindastes, guinchos etc. ", "Porta eletrodo – nunca deve ser resfriado pela imersão em água. ", "Máquina de solda – deverá ser desconectada da fonte de energia quando tiver que ser movimentada. ", "Cabos e conexões - devem ser verificados se são eficazes mecânica e eletricamente para as correntes de soldagem e se estão secos e livres de óleo e graxa ","Cabo de solda – em áreas confinadas, a fim de evitar que o cabo de solda se arraste, o soldador deverá enrolá-lo em torno do seu braço fazendo uma bobina. "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "Sobre cuidados particulares aos processos de soldagem – “soldagem e corte a gás”, qual entre as opções a seguir NÃO se aplica:",
@@ -616,7 +616,7 @@
         {
             pergunta: "Das alternativas apresentadas a seguir, assinale aquela que não é um fator que influencia na deformação de uma junta soldada:",
             respostas: ["Aplicação de Pré-aquecimento e pós-aquecimento na junta ", "Grau de restrição da junta ", "Energia de soldagem introduzida na junta durante a soldagem. ", ") Propriedades físicas e mecânicas do material ","Tensões internas encontradas na junta "],
-            correta: 5
+            correta: 0
         },
         {
             pergunta: " Um fator que Não influencia na deformação causada devido a soldagem é:	",
@@ -626,7 +626,7 @@
         {
             pergunta: "2. A respeito do tipo de deformação e sua ocorrência típica, assinale a opção falsa:	",
             respostas: [") Deformação angular: ocorre frequentemente em juntas soldadas de ângulo ", "Empenamento: é o principal tipo de deformação a evitar na soldagem de chapas sobrepostas (solda em ângulo). ", "Embicamento: poderá ocorrer em juntas soldadas a topo em qualquer espessura. ", ") Deformação angular: é comum nos casos de disposição irregular da zona plastificada em relação à linha neutra da peça. ","Empenamento: ocorre frequentemente na soldagem de chapas grossas. "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "4. Dentre os recursos descritos abaixo, indique aquele que deverá minimizar as deformações devido à soldagem:	",
@@ -726,7 +726,7 @@
         {
             pergunta: "Qual é a denominação do ensaio de dureza que consiste em comprimir lentamente, por meio de uma carga P, uma esfera de aço, de diâmetro D, sobre uma superfície plana de um corpo de prova ou peça, durante certo intervalo de tempo?",
             respostas: ["Dureza Brinell, porém o penetrador é uma pirâmide de diamante. ", "Dureza Rockwell. ", "Dureza Horn. ", "Dureza Vickers. ","Dureza Brinell. "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "5. Dentre as opções a seguir, selecione a única que NÃO é objetivo do ensaio macrográfico.	",
@@ -766,7 +766,7 @@
         {
             pergunta: "Dentre as opções indique a única que não compete ao ensaio macrográfico:",
             respostas: ["Determinar o número de passes numa soldagem multipasses. ", "Definir os contornos e, portanto o tamanho de grão do material. ", "Determinar a natureza do produto siderúrgico (por ex.: laminado, fundido etc.). ", "Definir os limites entre as zonas fundida e afetada termicamente de uma junta soldada ","Determinar a forma do chanfro de uma junta soldada. "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Um valor alto na escala de um durômetro Rockwell é característico de uma impressão profunda no material ensaiado, porque o número de dureza é inversamente proporcional à profundidade de impressão. Responda:",
@@ -776,7 +776,7 @@
         {
             pergunta: "Sabendo-se que: “Em juntas soldadas, algumas normas fixam os limites de dureza para o metal de base, ZTA, e ZF de certos aços, pois, se apresentassem dureza excessiva, sofreriam perda da dutilidade e, portanto, comprometeria sua aplicabilidade”. Pergunta-se: Entre os fatores listados a seguir, a respeito de como a dureza pode ser influenciada na soldagem, qual é o único que NÃO se aplica?",
             respostas: ["A dureza pode ser influenciada pelo tratamento térmico. ", "A dureza pode ser influenciada pelos efeitos metalúrgicos do processo de soldagem ", "A dureza pode ser influenciada pelo grau de encruamento do metal de base. ", "A dureza pode ser influenciada pela composição química do metal de base ","A dureza pode ser influenciada pela posição de execução da soldagem "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: ". Qual, dentre as opções a seguir, a respeito das características do ensaio de dureza Vickers, é FALSA?",
@@ -801,7 +801,7 @@
         {
             pergunta: "2. No ensaio por ultra-som, o uso de acoplante entre o cabeçote e a superfície da peça em exame se faz necessário por que",
             respostas: ["O cristal do cabeçote não vibrará se este for colocado diretamente sobre a peça. ", "Para que a maior parcela possível de som seja transmitida do cabeçote à peça e vice-versa, o que não aconteceria se existisse ar entre o cabeçote e a peça. ", "Para tornar mais rápida a realização do ensaio ", "O acoplante é necessário para fechar o circuito elétrico do cabeçote. ",") Serve principalmente como lubrificante para minimizar o desgaste do cabeçote. "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Dentre os ensaios não destrutivos a seguir relacionados, qual detecta facilmente defeitos volumétricos internos, tais como porosidades e inclusões:",
@@ -811,17 +811,17 @@
         {
             pergunta: "A diferença entre as densidades de duas áreas de uma radiografia é também conhecida por:	",
             respostas: ["Fator de absorção. ", "Atividade específica. ", "Definição. ", "Grau de enegrecimento do filme. ","Sensibilidade. "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "Qual o princípio do ensaio por ultrassom em materiais?	",
             respostas: ["Este ensaio é realizado em uma zona preparada superficialmente e o reconhecimento do material é feito observando-se o modo e a velocidade de reação, e ainda a coloração dos resíduos da reação química na superfície do material. ", "A principal finalidade deste ensaio é a detecção de descontinuidades internas, através da introdução de um feixe sônico a uma freqüência acima da faixa audível. ", "É um ensaio relativamente simples, utilizado na detecção de descontinuidades abertas para a superfície de materiais sólidos não porosos, com aplicação de um líquido penetrante e do revelador.", "É um ensaio que se baseia na emissão de radiação em corpos sólidos. "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Sabe-se que no ultrassom, devido ao efeito piezo-elétrico, quando um cristal é acoplado à superfície de uma peça de aço, agirá como um martelo. Esse cristal faz parte do cabeçote, sendo que, para inspeções em soldas comumente utiliza-se o... Indique a opção correta.",
             respostas: ["Cabeçote normal. ", "Cabeçote angular. ", "xxx ", "xxx ","xxx "],
-            correta: 5
+            correta: 1
         }, 
         {
             pergunta: " Com que finalidade é utilizado o ensaio por Partículas magnéticas e qual é a sua principal vantagem?	",
@@ -836,12 +836,12 @@
         {
             pergunta: "O indicador de Qualidade de Imagem (IQI), ou penetrâmetro, é usado pra medir:",
             respostas: ["A densidade do filme radiográfico ", " A qualidade da imagem da radiografia (sensibilidade)", "Tamanho das descontinuidades existentes.", "Intesidade do raio-X ","O índice da radiação secundária espalhada que poderá atingir o filme radiográfico "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Sobre o ensaio radiográfico, qual opção é falsa?	",
             respostas: ["O filme que a radiação impressiona neste ensaio é chamado de radiografia ", "Comprimento de onda da radiação e o tipo do material são os únicos fatores que influenciam na capacidade da radiação penetrar em sólidos ", "Baseia-se na capacidade que os raios-X e raios-gama possuem de penetrar em sólidos. ", "O material absorve parte da radiação que o atravessa ","A radiação ao atravessar um material sofre menor absorção nas regiões onde existem vazios ou descontinuidades "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "Dentre as opções sobre o ensaio visual, qual é a falsa?	",
@@ -855,12 +855,12 @@
         {
             pergunta: "Selecione entre as opções a seguir, aquela que não é considerada causa provável de falsa indicação no ensaio por líquido penetrante:",
             respostas: ["Contaminações durante o exame. ", "Falhas existentes no material. ", "Escórias do processo de soldagem. ", "Limpeza inicial inadequada. ","Óxidos não removidos."],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "4. A diferença entre as densidades de duas áreas de uma radiografia é também conhecida por:	",
             respostas: ["Definição. ", ") Grau de enegrecimento do filme. ", "Fator de absorção. ", "Atividade específica. ","Sensibilidade. "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "5. Dentre as características do ensaio por ultrassom a seguir apresentadas, qual é a única que NÃO se aplica?	",
@@ -875,17 +875,17 @@
         {
             pergunta: "7. Em que se baseia o ensaio por meio de Líquido penetrante?	",
             respostas: ["É um ensaio relativamente simples, utilizado na detecção de descontinuidades abertas para a superfície de materiais sólidos não porosos, com aplicação de um líquido penetrante e do revelador. ", "O ensaio é utilizado para detectar descontinuidades internas, através da introdução de um feixe sônico a uma freqüência acima da faixa audível. ", "É um ensaio utilizado para localizar descontinuidades superficiais e subsuperficiais, com aplicação de uma corrente de magnetização ou de um campo magnético à peça inspecionada ", "O ensaio é utilizado para localizar e detectar defeitos passantes em soldas. ","xxx "],
-            correta: 5
+            correta: 0
         },
         {
             pergunta: "Das alternativas apresentadas a seguir, identifique aquela que não está relacionada com a realização do Ensaio Visual.",
             respostas: ["O ensaio visual pode ser realizado à vista desarmada, ou seja, sem auxílio de algum dispositivo ótico. ", "O ensaio visual pode ser realizado com auxílio de uma lupa ou com aparelhos do tipo endoscópio (inspeção remota) ", "Dos ensaios conhecidos como “não destrutivos”, este é considerado o ensaio mais básico entre todos ", "É um ensaio não destrutivo básico, utilizado para a identificação dos metais e ligas metálicas através de suas propriedades físicas e químicas ","O método é usado na inspeção de superfícies externas para determinação de tamanho, forma, acabamento, ajuste e existência de defeitos "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "Sobre o ensaio radiográfico, qual opção é falsa?	",
             respostas: ["Comprimento de onda da radiação e o tipo do material são os únicos fatores que influenciam na capacidade da radiação penetrar em sólidos ", "Baseia-se na capacidade que os raios-X e raios-gama possuem de penetrar em sólidos. ", "A radiação ao atravessar um material sofre menor absorção nas regiões onde existem vazios ou descontinuidades ", "O material absorve parte da radiação que o atravessa ","O filme que a radiação impressiona neste ensaio é chamado de radiografia "],
-            correta: 5
+            correta: 0
         },
         {
             pergunta: "Quanto às chapas de teste de produção, entende-se que:	",
@@ -900,17 +900,17 @@
         {
             pergunta: "A requalificação do procedimento de soldagem é necessária quando:	",
             respostas: ["A solda não for executada por um soldador qualificado. ", "Os limites estabelecidos necessitam ser ultrapassados. ", "Decorrer seis meses após a sua qualificação. ", ") Houver mudança de especificação do metal de base. ","Houver mudança de uma variável não essencial. "],
-            correta: 5
+            correta: 1
         },
         {
             pergunta: "A respeito da etapa de preparação dos corpos de prova para qualificação de um procedimento de soldagem, selecione a opção verdadeira:",
             respostas: [" ---> Dela depende a validade e a repetibilidade dos resultados dos ensaios. ", "--> Dela depende apenas a repetibilidade dos resultados dos ensaios.  ", "É uma etapa que antecede a marcação da posição de retirada dos corpos de prova na peça de teste. ", "As dimensões de preparação dos copos de prova, previstas pelas normas de qualificação, são bastante flexíveis, já que as mesmas não exercem influência nos resultados dos ensaios. ","Dela depende apenas a validade dos ensaios. "],
-            correta: 5
+            correta: 0
         },
         {
             pergunta: "A requalificação da EPS se faz necessário quando:	",
             respostas: ["A solda for executada por um soldador não qualificado no processo de soldagem especificado. ", "Não houver alteração na especificação do metal de base estabelecido. ", "Os limites ou faixas dos parâmetros de soldagem especificados não produzem soldas com qualidade satisfatória. ", "A experiência e a familiarização com certos metais de base e consumíveis de soldagem provam a adequação de uma EPS, através de serviços executados por um longo período de tempo. ",") Houver alteração de uma variável não essencial. "],
-            correta: 5
+            correta: 2
         },
         {
             pergunta: "Qual é a norma de qualificação requerida pela norma/código de projeto (API 650)?	",
@@ -920,27 +920,27 @@
         {
             pergunta: "Qual é a norma de qualificação requerida pela norma/código de projeto (AWS D1.1)?",
             respostas: ["ASME V ", ") API Std 1104 ", "ASME VIII Div 2 ", "AWS D1.1 ","ASME Seção IX. "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "Quanto às Variáveis conhecidas como: “Não-Essenciais”, “Essenciais” e “Essenciais Suplementares”. Marque a alternativa incorreta.",
             respostas: ["Variáveis Não-Essenciais são variáveis que, se alteradas, não requerem uma nova qualificação ", "As normas de qualificação determinam as mesmas variáveis essenciais de soldagem, aplicáveis a todos os processos de soldagem", "contudo, a sua análise é necessária quando se tem requisito de impacto na junta soldada ", "Variáveis Essenciais são variáveis que se alteradas além do que as normas estabelecem, requerem uma nova qualificação","Variáveis Essenciais Suplementares são aquelas que, se alteradas além do que as normas estabelecem, requerem uma nova qualificação ", "Os limites das qualificações são estabelecidos em primeiro lugar através das variáveis de soldagem onde cada norma de qualificação estabelece as suas próprias Variáveis “Não-Essenciais”, “Essenciais” e “Essenciais Suplementares”."],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "A norma de qualificação AWS D1.1 é aplicada para:	",
             respostas: ["Estruturas metálicas e vasos de pressão ", "Vasos de pressão", "Caldeiras, tubulações e vasos de pressão ", "Caldeiras, estruturas metálicas e vasos de pressão. ","Estruturas metálicas "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "9. A norma de projeto “ASME VIII Div. 1” é aplicada para qual tipo de equipamento",
             respostas: ["Tubulações de transmissão e distribuição de gás. ", "Estruturas metálicas ", "Caldeiras ", "Vasos de pressão ","Componentes nucleares "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "Para qualificar um procedimento de soldagem conforme a norma de qualificação ASME Seção IX, utilizando o processo de soldagem eletrodo revestido, qual das opções a seguir é uma variável de soldagem essencial?",
             respostas: ["Diâmetro do metal de adição abaixo de 6 mm ", "F Number ", " Tipo de chanfro da junta", "Abertura de raiz ","Alteração da progressão de soldagem (ascendente para descendente) "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "Entende-se por variável essencial:	",
@@ -950,17 +950,17 @@
         {
             pergunta: " Quanto às chapas de teste de produção, entende-se que:	",
             respostas: ["As chapas de teste de produção deverão ser soldadas nas mesmas condições das soldas de produção. ", "Os requisitos de ensaios relativos às chapas de teste de produção são encontrados na IEIS ", "Para juntas circunferências, as chapas de teste de produção são colocadas como apêndice nas juntas a serem soldadas. ", "Para juntas longitudinais, as chapas de teste de produção são colocadas próximas às juntas a serem soldadas. ","São utilizadas quando se objetiva qualificar um procedimento de soldagem. "],
-            correta: 5
+            correta: 0
         },
         {
             pergunta: "A preparação das peças de teste é feita com base nos requisitos da norma de qualificação aplicável. A seguir, estão listadas algumas das etapas da preparação. Indique a ordem correta dessas etapas: I) Tipo da peça de teste. II) Dimensões da peça de teste. III) Material da peça de teste. IV) Preparação dos corpos de prova. V) Posição de retirada dos corpos de prova.",
             respostas: [" II, I, IV, V e III. ", "III, II, I, IV e V. ", "I, II, III, IV e V. ", " I, III, IV, V e II. ","I,III,II,V e IV. "],
-            correta: 5
+            correta: 4
         },
         {
             pergunta: "4. A requalificação da EPS se faz necessário quando:	",
             respostas: ["A solda for executada por um soldador não qualificado no processo de soldagem especificado. ", "Não houver alteração na especificação do metal de base estabelecido. ", " Houver alteração de uma variável não essencial. ", "Os limites ou faixas dos parâmetros de soldagem especificados não produzem soldas com qualidade satisfatória. ","A experiência e a familiarização com certos metais de base e consumíveis de soldagem provam a adequação de uma EPS, através de serviços executados por um longo período de tempo. "],
-            correta: 5
+            correta: 3
         },
         {
             pergunta: "Quanto às Variáveis conhecidas como: “Não-Essenciais”, “Essenciais” e “Essenciais Suplementares”. Marque a alternativa incorreta.",
@@ -970,19 +970,19 @@
         {
             pergunta: "Qual é a norma de qualificação requerida pela norma/código de projeto (ASME VIII Div. 1), na construção de um vaso de pressão?",
             respostas: ["API Std 1104 ", "ASME I ", " AWS D1.1 ", "ASME Seção IX ","ASME VIII Div 2. "],
-            correta: 5
+            correta: 3
         },
 
         {
             pergunta: "A norma de projeto “ASME I” é aplicada para qual tipo de equipamento?",
             respostas: ["Tanques de estocagem ", "Caldeiras ", "Estruturas metálicas ", "Tubulações de vapor.",") Tubulações de transporte de petróleo "],
-            correta: 5
+            correta: 1
         },
 
         {
             pergunta: "Para qualificar um procedimento de soldagem conforme a norma de qualificação ASME Seção IX, utilizando o processo de soldagem eletrodo revestido, qual das opções a seguir é uma variável de soldagem não essencial?",
             respostas: ["P Number ", "A Number ", "Espessura qualificada do metal de base ", "Tipo de chanfro da junta "," F Number "],
-            correta: 5
+            correta: 3
         },
 
     ];
